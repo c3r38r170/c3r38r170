@@ -1,6 +1,6 @@
 ## ¡Hola!
 
-Acá vas a poder encontrar mis [proyectos personales](Proyectos-personales), [académicos](Proyectos-academicos) y como [profesional independiente](Profesional-independiente).
+Acá vas a poder encontrar mis [proyectos personales](#Proyectos-personales), [académicos](#Proyectos-academicos) y como [profesional independiente](#Profesional-independiente).
 
 ## Proyectos personales
 Me apasiona resolver problemas, y poder expresar mi ingenio a través de la tecnología; visualizar una solución y darle vida con mis propias manos. Mis tecnologías preferidas son:
