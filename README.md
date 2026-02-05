@@ -5,7 +5,7 @@ Acá vas a poder encontrar mis [proyectos personales](#Proyectos-personales), [a
 ## Proyectos personales
 Me apasiona resolver problemas, y poder expresar mi ingenio a través de la tecnología; visualizar una solución y darle vida con mis propias manos. Mis tecnologías preferidas son:
 - HTML5, CSS3 y JavaScript vanilla
-- - Durante los años he incorporo de a poco herramientas como Sass o conceptos de React
+- - Durante los años he incorporado de a poco herramientas como Sass o conceptos de React
 - Node.js para scripting
 - - También me interesó lo poco que lo usé para backend
 - Disfruto mucho trabajar con Java y PHP
@@ -15,7 +15,7 @@ Me apasiona resolver problemas, y poder expresar mi ingenio a través de la tecn
 #### [Herramientas propias para construcción de aplicaciones web](https://github.com/c3r38r170/c3tools)
 - Herramientas de manipulación de DOM, administración de peticiones HTTP, chequeo de tipos, etc.
 #### [Aplicación para organización personal](https://github.com/c3r38r170/quehaceres-categorizados)
-- Una aplicación de lista de cosas que hacer con categorías; hecha con HTML, CSS y JS. Incluye guardado en `localStorage` y `drag and drop`.
+- Una aplicación de lista de cosas que hacer con categorías; hecha con HTML, CSS y JS. Incluye guardado en `localStorage` e interacciones `drag and drop`.
 #### [Aplicación móvil de alarmas de ciclos de 2 tiempos](https://github.com/c3r38r170/Intervalador)
 - Aplicación hecha con el [MIT App Inventor](https://appinventor.mit.edu/) para tener temporizadores de ciclos de 2 tiempos. Usa base de datos local, FontAwesome para los íconos, e incluye una interfaz en archivo HTML dentro de un WebView.
 #### [Script en HTML de temporizadores](https://github.com/c3r38r170/multi-temporizador)
